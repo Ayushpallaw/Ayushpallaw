@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Pallaw</h1>
 <h3 align="center">An aspiring Data Analytics student from India</h3>
-<img aling="right" alt="coding" width="400" src="![image](https://github.com/Ayushpallaw/Ayushpallaw/assets/135197896/0a89ef29-3380-43c0-aad3-728041495567)">
+<img aling="right" alt="coding" width="400" src="![image](https://github.com/Ayushpallaw/Ayushpallaw/assets/135197896/cb128da2-c194-4c97-a8d1-ee7adcb0c8c5)
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushpallaw&label=Profile%20views&color=0e75b6&style=flat" alt="ayushpallaw" /> </p>
 
 - 🌱I’m currently learning **Data Analytics**
