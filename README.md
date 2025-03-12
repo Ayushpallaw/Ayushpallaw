@@ -11,7 +11,7 @@
 
 - 📫 How to reach me, mail:- **ayushpallaw2003@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1u8x0rzt_NBBRxv6rPnYfuktQgEiNol4S/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1bPo5gXCjzogzTSObwanO75KYQEjmjKTU/view?usp=sharing))
 
  <br />
 
