@@ -30,10 +30,8 @@
 <p align="left">
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@anshulsingh_01" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ayush-pallaw-904987228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush pallaw" height="30" width="40" /></a>
-<a href="https://kaggle.com/anshul singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anshul singh" height="30" width="40" /></a>
-<a href="https://instagram.com/anshul19_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anshul19_k" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anshul-01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anshul-01" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/anshulsingh01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anshulsingh01" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ayush pallaw" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ayushpallaw1?utm_source=qr&igsh=dGgweG9sb2M5NXMx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayushpallaw1" height="30" width="40" /></a>
 </p>
 <br />
 
