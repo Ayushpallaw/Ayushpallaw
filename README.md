@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Ayushpallaw)
 
-- 💬 Ask me about **Python,SQL,Excel,Tableau**
+- 💬 Ask me about **Data Science ,Data Analysis ,Python ,SQL ,Excel ,Machine Learning**
 
-- 📫 How to reach me **ayushpallaw2003@gmail.com**
+- 📫 How to reach me, mail:- **ayushpallaw2003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1u8x0rzt_NBBRxv6rPnYfuktQgEiNol4S/view?usp=drive_link](https://drive.google.com/file/d/1u8x0rzt_NBBRxv6rPnYfuktQgEiNol4S/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1u8x0rzt_NBBRxv6rPnYfuktQgEiNol4S/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
