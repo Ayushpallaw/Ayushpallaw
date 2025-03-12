@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Pallaw</h1>
-<h3 align="center">An aspiring Data Analytics student from India</h3>
+<h3 align="center">An aspiring Data Science & Python Enthusiast student from India</h3>
 <img aling="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animation%2Fdata-analysis-processing-4209908&psig=AOvVaw2eZqyWjAY7MSoO4rhlEQzl&ust=1709582610285000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjbltPx2IQDFQAAAAAdAAAAABAJ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushpallaw&label=Profile%20views&color=0e75b6&style=flat" alt="ayushpallaw" /> </p>
 
