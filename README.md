@@ -16,7 +16,7 @@
  # **💻 Coding Profile:**
  
 <p align="left">
-<a href='https://www.geeksforgeeks.org/user/mjgupta9135/' target="_blank"><img alt='geeksforgeeks' src='https://img.shields.io/badge/GeeksforGeeks-100000?style=plastic&logo=geeksforgeeks&logoColor=12FF00&labelColor=D7D4D4&color=FFFFFF'/></a>
+<a href='https://www.geeksforgeeks.org/user/ayushpalx5d1/' target="_blank"><img alt='geeksforgeeks' src='https://img.shields.io/badge/GeeksforGeeks-100000?style=plastic&logo=geeksforgeeks&logoColor=12FF00&labelColor=D7D4D4&color=FFFFFF'/></a>
 <a href="https://leetcode.com/u/mjgupta9135/" target="_blank"><img alt='leetCODE' src='https://img.shields.io/badge/Leetcode-100000?style=plastic&logo=leetCODE&logoColor=000000&labelColor=F09A1A&color=FFFFFF'/></a>
 <a href='https://www.naukri.com/code360/profile/mjgupta' target="_blank"><img alt='codingninjas' src='https://img.shields.io/badge/Coding_Ninjas-100000?style=plastic&logo=codingninjas&logoColor=EE8B29&labelColor=D7D4D4&color=FFFFFF'/></a>
 </p>
