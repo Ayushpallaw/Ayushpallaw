@@ -5,7 +5,7 @@
 
 -  **Data Science & Python Enthusiast | Exploring SQL, ML & Data Analysis**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ayushpallaw](https://github.com/Ayushpallaw)
+- 👨‍💻 All of my projects are available at [Ayushpallaw](https://github.com/Ayushpallaw)
 
 - 💬 Ask me about **Python,SQL,Excel,Tableau**
 
